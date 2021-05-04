@@ -24,4 +24,4 @@ Statement “dogs” (02)
 Female, as the actor ID number is even.
 
 here in this project a CNN model was trained and tested with accuracy of 95% wih which we evaluted our input audio file and indentifed emotions from it
-![image](https://user-images.githubusercontent.com/48548360/116974374-ac17fa80-acdb-11eb-925d-7b09b608b110.png)
+
